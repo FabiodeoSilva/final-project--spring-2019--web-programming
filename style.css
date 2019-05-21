@@ -76,7 +76,8 @@ figure{
     right: 8%;
     transform: rotate(10deg);
     filter: sepia(50%);
-    width: 400px;
+    width: 250px;
+    z-index: 100;
 }
 .water{
     position: absolute;
